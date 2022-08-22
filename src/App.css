@@ -100,3 +100,10 @@ input[type='number'] {
   height: 20px;
 }
 
+
+.generate-password-btn {
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 6px;
+  color: green;
+}
